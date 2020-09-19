@@ -11,5 +11,5 @@ This will give you a traditional shopping experience.
 And you will enjoy the same.
 
 Technology:
-Web Development(HTML, CSS, BootStrap, JS)
+Web Development(HTML, CSS, BootStrap, JS, Jquery)
 Augumented Reality
